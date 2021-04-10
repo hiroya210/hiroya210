@@ -1,0 +1,6 @@
+- 👋 Hi, I’m hiroya
+- 👀 I’m interested in Web developmet and software development
+- 🌱 I’m currently learning Ruby on Rails, Git, HTML, CSS, JavaScript etc.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
